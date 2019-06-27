@@ -5,5 +5,5 @@
 > 千万别学计算机
 <p style="alias: center">SANKAI Gateway</p>
 
-[123](#start)
+[Github](https://github.com)
 [开始](/README)
